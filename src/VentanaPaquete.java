@@ -264,7 +264,6 @@ public final class VentanaPaquete {
                         crearCompra.setTipoInteraccion(tipoFinalInteraccion);
                         crearCompra.setPrecioNadoDelfines(precioFinalNadoDelfines);
 
-
                         crearCompra.CalcularTotal(precioFinalEntrada, tipoFinalBufet, precioFinalBufet,
                                 lugarFinalEspectaculo, precioFinalEspectaculo, tipoFinalInteraccion, precioFinalNadoDelfines);
 
