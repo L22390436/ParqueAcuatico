@@ -40,12 +40,6 @@ public class Compra {
         this.precioTotal = this.precioEntrada + this.precioBufet + this.precioEspectaculo + this.precioNadoDelfines;
     }
 
-
-
-
-
-
-
     public void setPrecioEntrada(double precioEntrada) {
         this.precioEntrada = precioEntrada;
     }
